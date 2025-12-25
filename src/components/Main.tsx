@@ -11,7 +11,7 @@ function Main() {
     <div className="about-section">
       <div className="image-wrapper">
         <img
-          src="https://res.cloudinary.com/duhlo06nb/image/upload/v1732186050/Snapchat-1185139239-modified_bqofey.png"
+          src="https://res.cloudinary.com/duhlo06nb/image/upload/v1766645813/20250329_170557_xzrlfn.jpg"
           alt="Avatar"
         />
       </div>
@@ -40,8 +40,10 @@ function Main() {
   </div>
   <div className="right-section ">
     <h1>Skills</h1>
-    <p>Languages & Tools: Python, SQL, Tableau, Git, R</p> 
-    <p>Methodologies: Agile Development (Scrum)</p>
+    <p>AI & Machine Learning: LLMs (Large Language Models), NLP (Natural Language Processing), RAG (Retrieval-Augmented Generation), Prompt Engineering, Transfer Learning</p> 
+    <p>Backend Development: Python, FastAPI, Flask, REST APIs (Scrum)</p>
+    <p>Data & Analytics: SQL, Excel, Tableau, Exploratory Data Analysis (EDA), PostgreSQL, MongoDB</p>
+    <p>DevOps & Tools: Docker, Git</p>
     <p>Soft Skills: Critical Thinking, Quick Learning, Teamwork, Communication, Leadership (Scrum Master experience)</p>
   </div>
 </div>
