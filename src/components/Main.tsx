@@ -41,7 +41,7 @@ function Main() {
   <div className="right-section ">
     <h1>Skills</h1>
     <p>AI & Machine Learning: LLMs (Large Language Models), NLP (Natural Language Processing), RAG (Retrieval-Augmented Generation), Prompt Engineering, Transfer Learning</p> 
-    <p>Backend Development: Python, FastAPI, Flask, REST APIs (Scrum)</p>
+    <p>Backend Development: Python, FastAPI, Flask, REST APIs </p>
     <p>Data & Analytics: SQL, Excel, Tableau, Exploratory Data Analysis (EDA), PostgreSQL, MongoDB</p>
     <p>DevOps & Tools: Docker, Git</p>
     <p>Soft Skills: Critical Thinking, Quick Learning, Teamwork, Communication, Leadership (Scrum Master experience)</p>
